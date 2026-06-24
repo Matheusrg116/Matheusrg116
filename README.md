@@ -1,5 +1,5 @@
-<h3>Olá👋​ Eu sou Matheus Ribeiro </h3>
-<h3>Estudante de desenvolvimento de sistemas</h3>
+<h4>Olá👋​ Eu sou Matheus Ribeiro </h4>
+<p>Estudante de desenvolvimento de sistemas</p>
 
 
 <div style="display: inline_block"><br>
